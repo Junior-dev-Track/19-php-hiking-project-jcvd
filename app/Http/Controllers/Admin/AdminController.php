@@ -12,10 +12,16 @@ use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
+
 class AdminController extends Controller
 {
     public function index():View {
+
+       
+
         return view('admin.dashboard');
+
+        
     }
 
     public function addTag():View {
