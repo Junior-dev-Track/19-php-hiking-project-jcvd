@@ -18,7 +18,7 @@ Help hikers to connect each others for building a better world.
 
 ## Goals - At the end of this challenge you should have improved your:
 
--   [ ] Project planning.
+-   [x] Project planning.
 -   [ ] Mock-up creation.
 -   [ ] _semantical_ HTML.
 -   [ ] Database creation.
